@@ -1,11 +1,11 @@
 # Pendekin
-## _Web App for Teaching Purpose_
+## _App for Learning Purpose_
 [![N|Solid](https://freepngimg.com/thumb/categories/1402.png)](https://www.python.org/)
 [![N|Solid](https://www.mysql.com/common/logos/powered-by-mysql-167x86.png)](https://mariadb.org/)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/ekoverianto/crud_python)
 
-CRUD Python for Teaching Only
+CRUD Python for Learning Purpose
 
 ## Features
 
@@ -17,7 +17,7 @@ CRUD Python for Teaching Only
 
 ## Tech
 
-Pendekin was developed using:
+Python CRUD was developed using:
 
 - Python 3.8 (Programming Language)
 - Mysql/MariaDB
