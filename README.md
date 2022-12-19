@@ -1,4 +1,4 @@
-# Pendekin
+# CRUD App
 ## _App for Learning Purpose_
 [![N|Solid](https://freepngimg.com/thumb/categories/1402.png)](https://www.python.org/)
 [![N|Solid](https://www.mysql.com/common/logos/powered-by-mysql-167x86.png)](https://mariadb.org/)
