@@ -33,4 +33,4 @@ python3 app.py
 ```
 
 ## Library
-Pendekin using some libraries: [See Requirements](https://github.com/ekoverianto/crud_python/blob/main/requirements.txt)
+Python CRUD using some libraries: [See Requirements](https://github.com/ekoverianto/crud_python/blob/main/requirements.txt)
